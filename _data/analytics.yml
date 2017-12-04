@@ -1,0 +1,8 @@
+google:
+  id: UA-100531691-1
+
+piwik:
+  site_id: 1
+  api:
+    url: https://vps.irockbunny.com/analytics/?callback=?
+    token: f7d4563209161cddc9837989f002da6e
