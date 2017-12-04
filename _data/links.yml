@@ -105,12 +105,62 @@
       style: basic
       url: https://baike.baidu.com/item/8407%E6%9D%90%E6%96%99/2210539
 
+    - name: DF-2模具钢
+      icon: paw blue
+      style: basic
+      url: https://baike.baidu.com/item/DF-2/
+
+    - name: DF-3模具钢
+      icon: paw blue
+      style: basic
+      url: https://baike.baidu.com/item/DF-3/
+	  
+    - name: XW-5模具钢
+      icon: paw blue
+      style: basic
+      url: https://baike.baidu.com/item/XW-5/
+
+    - name: XW-10冷作模具钢
+      icon: paw blue
+      style: basic
+      url: https://baike.baidu.com/item/XW-10%E5%86%B7%E4%BD%9C%E6%A8%A1%E5%85%B7%E9%92%A2/2559173
+
+    - name: XW-41模具钢
+      icon: paw blue
+      style: basic
+      url: https://baike.baidu.com/item/XW-41%E6%A8%A1%E5%85%B7%E9%92%A2
+
+    - name: NIMAX模具钢
+      style: basic
+      url: http://www.assab-vietnam.com/en/nimax.php
+
+    - name: 718HH模具钢
+      icon: paw blue
+      style: basic
+      url: https://baike.baidu.com/item/718HH/6812863?fr=aladdin
+
+    - name: 618HH钢材
+      icon: paw blue
+      style: basic
+      url: https://baike.baidu.com/item/618HH%E9%92%A2%E6%9D%90/9932845
+
+    - name: S136镜面模具钢
+      icon: paw blue
+      style: basic
+      url: https://baike.baidu.com/item/S136%E6%A8%A1%E5%85%B7%E6%9D%90%E6%96%99/1399702
+
+    - name: POLMAX不锈钢
+      icon: paw blue
+      style: basic
+      url: https://baike.baidu.com/item/POLMAX%E4%B8%8D%E9%94%88%E9%92%A2/6457837?fr=aladdin
+
     - name: 维基百科
       icon: wikipedia black
       style: basic
       url: https://www.wikipedia.org/
 
     - name: 百度百科
+      icon: paw blue
       style: basic
       url: https://baike.baidu.com/
 
@@ -458,6 +508,6 @@
   categories:
   - category: 联系方式
     links:
-    - name: 全国服务热线:0769-22692345
+    - name: 一胜百模具钢全国服务热线:0769-22692345
       style: red
       url: #
