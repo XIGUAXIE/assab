@@ -61,13 +61,13 @@
   - category: 资料
     links:
     - name: '模具钢百科'
-	  icon: paw blue
+      icon: paw blue
       style: basic
       url: https://baike.baidu.com/item/%E6%A8%A1%E5%85%B7%E9%92%A2/9203755?fr=aladdin
 
     - name: 模具钢材百科
       icon: paw blue
-	  style: basic
+      style: basic
       url: https://baike.baidu.com/item/%E6%A8%A1%E5%85%B7%E9%92%A2%E6%9D%90/6887594
 
     - name: 一胜百模具钢百科
@@ -86,7 +86,7 @@
       url: https://baike.baidu.com/item/S136
 
     - name: QRO-90模具钢
-	  icon: paw blue
+      icon: paw blue
       style: basic
       url: https://baike.baidu.com/item/QRO-90/10225520
 
