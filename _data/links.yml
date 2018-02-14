@@ -10,9 +10,7 @@
       style: red
       url: http://www.assab-die.cn/
 
-    - name: 广州一胜百
-      style: orange
-      url: http://www.assab-gz.com/
+    - name: 广州一胜百  ssab-gz.com/
 
     - name: 一胜百总代理
       style: basic
@@ -166,6 +164,18 @@
 
   - category: 行业网站
     links:
+	- name: 中国建材网
+	  style： basic
+	  url：https://assabsteel.bmlink.com/
+	  
+	-name: 阿土伯
+	  style： basic
+	  url：http://assabtooling.atobo.com.cn/
+	  
+	-name：中国黄页网
+	  style：basic
+	  url：http://assab666.yellowurl.cn/
+	
     - name: 中国模具钢网
       style: basic
       url: http://www.mojugang.net/
@@ -188,7 +198,7 @@
 
     - name: 中国供应商
       style: basic
-      url: https://cn.china.cn/
+      url: https://assab666.cn.china.cn/
 
     - name: 中国制造网
       style: basic
