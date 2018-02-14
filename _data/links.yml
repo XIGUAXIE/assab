@@ -164,17 +164,17 @@
 
   - category: 行业网站
     links:
-	- name: 中国建材网
-	  style：basic
-	  url：https://assabsteel.bmlink.com/
+    - name: 中国建材网
+      style：basic
+      url：https://assabsteel.bmlink.com/
 	  
-	-name: 阿土伯
-	  style：basic
-	  url：http://assabtooling.atobo.com.cn/
+    -name: 阿土伯
+      style：basic
+      url：http://assabtooling.atobo.com.cn/
 	  
-	-name：中国黄页网
-	  style：basic
-	  url：http://assab666.yellowurl.cn/
+    -name：中国黄页网
+      style：basic
+      url：http://assab666.yellowurl.cn/
 	
     - name: 中国模具钢网
       style: basic
