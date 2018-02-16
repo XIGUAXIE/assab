@@ -520,6 +520,38 @@
   categories:
   - category: 本地资料下载
     links:
-    - name: 一胜百模具钢全国服务热线:0769-22692345
+    - name: DF-3
       style: red
-      url: #
+      url: http://www.assab.com/media/ASSAB%20DF-3_C_2017.pdf
+
+    - name: XW-5
+      style: red
+      url: http://www.assab.com/media/ASSAB%20XW-5_C_2017.pdf
+
+    - name: XW-10
+      style: red
+      url: http://www.assab.com/media/ASSAB%20XW-10_C_2017.pdf
+
+    - name: XW-42
+      style: red
+      url: http://www.assab.com/media/ASSAB%20XW-42_C_2017.pdf
+
+    - name: CALMAX
+      style: red
+      url: http://www.assab.com/media/CALMAX_C_2017.pdf
+
+    - name: ASSAB 88
+      style: red
+      url: http://www.assab.com/media/ASSAB%2088_C_2017.pdf
+
+    - name: ASSAB 618 HH
+      style: red
+      url: http://assab-china.com/media/618_HH.pdf
+
+    - name: NIMAX
+      style: red
+      url: http://assab-china.com/media/NIMAX.pdf
+
+    - name: UNIMAX
+      style: red
+      url: http://assab-china.com/media/UNIMAX.pdf
