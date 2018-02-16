@@ -3,11 +3,6 @@
   url: /
   active_key: home
 
-- name: 访客分析
-  icon: line chart
-  url: /analytics/
-  active_key: analytics
-
 - name: 联系我们
   icon: qrcode
   url: /donate/
