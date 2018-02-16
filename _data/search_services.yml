@@ -112,11 +112,3 @@
   name: 胖次
   url: http://www.panc.cc/s/
   suffix: "/td_0"
-
-- id: byr
-  name: 北邮人论坛
-  url: http://search.icybee.cn/bbs/?key=
-
-- id: byrbt
-  name: 北邮人BT
-  url: http://bt.byr.cn/torrents.php?search=
