@@ -492,126 +492,122 @@
 
     - name: 中国土木科技网
       style: basic
-      url: 中国土木科技网
+      url: http://www.tumukeji.com/
+      
+    - name: 中国好建材
+      style: basic
+      url: http://www.875.cn/index360.html?aid=0&sid=10000#floor_04
 
-  - category: 学习
+    - name: 中国建设招标网
+      style: basic
+      url: http://www.jszhaobiao.com/
+      
+    - name: 中国岩土网
+      style: basic
+      url: http://www.yantuchina.com/
+      
+  - category: 机械仪表
     links:
-    - name: Coursera
+    - name: 中国机械网
       style: basic
-      url: https://www.coursera.org/
+      url: http://www.jx.cn/
 
-    - name: MOOC
+    - name: 中华机械网
+      style: red
+      url: http://china.machine365.com/
+
+    - name: 中国制造网
       style: basic
-      url: http://mooc.org/
+      url: http://cn.made-in-china.com/
 
-    - name: 网易公开课
+    - name: 中国工控网
       style: basic
-      url: http://open.163.com/
+      url: http://www.gongkong.com/
 
-    - name: W3School
+    - name: 中华标准件网
       style: basic
-      url: http://www.w3school.com.cn/
+      url: http://www.bzjw.com/
 
-    - name: Stack Overflow
-      icon: stack overflow orange
+    - name: 机械英才网
       style: basic
-      url: http://stackoverflow.com/
+      url: http://www.mechr.com/
 
-    - name: SegmentFault
+    - name: 机电在线
       style: basic
-      url: http://segmentfault.com/
+      url: http://www.jdol.com.cn/
 
-    - name: Tutorials Point
+    - name: 中华轴承网
       style: basic
-      url: https://www.tutorialspoint.com/
+      url: http://www.zcwz.com/
 
-    - name: Google Open Source
-      icon: code blue
+    - name: 中国工业信息网
       style: basic
-      url: https://opensource.google.com/
-
-  - category: 求职
+      url: http://www.587766.com/
+      
+  - category: 服装鞋帽
     links:
-    - name: LinkedIn
-      icon: linkedin blue
+    - name: 中国服装网
       style: basic
-      url: http://www.linkedin.com/
+      url: http://www.efu.com.cn/
 
-    - name: 大街网
+    - name: 中华服装网
       style: basic
-      url: http://www.dajie.com/
+      url: http://www.51fashion.com.cn/
 
-    - name: 拉勾网
+    - name: 中国服装时尚网
       style: basic
-      url: http://www.lagou.com/
+      url: http://www.ef360.com/
 
-    - name: 智联招聘
+    - name: 中国鞋网
       style: basic
-      url: http://zhaopin.com/
+      url: http://www.cnxz.cn/
 
-    - name: 前程无忧
+    - name: 内衣网
       style: basic
-      url: http://www.51job.com/
+      url: http://www.nyi.com.cn/
 
-    - name: 应届生
+    - name: 中国服装品牌网
       style: basic
-      url: http://www.yingjiesheng.com/
+      url: http://www.china-ef.com/
 
-  - category: 娱乐
+  - category: 电子电工
     links:
-    - name: 优酷
+    - name: 电子工程世界
       style: basic
-      url: http://www.youku.com/
+      url: http://www.eeworld.com.cn/
 
-    - name: 土豆
+    - name: 中电网
       style: basic
-      url: http://www.tudou.com/
+      url: http://www.eccn.com/
 
-    - name: Youtube
-      icon: youtube red
+    - name: 21IC中国电子网
       style: basic
-      url: http://www.youtube.com/
+      url: http://www.21ic.com/
 
-    - name: 爱奇艺
+    - name: 中国自动化网
       style: basic
-      url: http://www.iqiyi.com/
+      url: http://www.ca800.com/
 
-    - name: 芒果TV
+    - name: 电子产品世界
       style: basic
-      url: http://www.mgtv.com/
+      url: http://www.eepw.com.cn/
 
-    - name: 腾讯视频
+    - name: 今日电子
       style: basic
-      url: https://v.qq.com/
+      url: http://www.epc.com.cn/
 
-    - name: 哔哩哔哩
+    - name: 数字音视工程网
       style: pink
-      url: http://www.bilibili.com/
+      url: http://www.davinfo.com/
 
-    - name: AcFun
+    - name: 中安网
       style: basic
-      url: http://www.acfun.tv/
+      url: http://www.cps.com.cn/
 
-    - name: 吐槽
+    - name: 控制工程网
       style: basic
-      url: http://www.tucao.tv/
+      url: http://www.cechina.cn/
 
-    - name: 腾讯动漫
+    - name: 中国安防网
       style: basic
-      url: http://ac.qq.com/
-
-    - name: 虾米
-      style: basic
-      url: http://www.xiami.com/
-
-    - name: 多瑙影院
-      style: basic
-      url: http://www.dnvod.tv/
-
-    - name: FIX字幕侠
-      style: yellow
-      url: http://www.fixsub.com/
-
-    - name: FIX字幕侠2
-      style: basic
-      url: http://www.610213.net/
+      url: http://www.c-ps.net/
