@@ -302,6 +302,34 @@
       style: basic
       url: http://www.assab-china.com/media/ABP_20140923_SC.pdf
 
+    - name: CALDIE
+      style: basic
+      url: http://www.assab.com/media/CALDIE_C_2017.pdf
+
+    - name: ASSAB PM 23 SuperClean
+      style: basic
+      url: http://www.assab-china.com/media/PM_23.pdf
+
+    - name: ASSAB PM 30 SuperClean
+      style: basic
+      url: http://www.assab-china.com/media/PM_30.pdf
+
+    - name: ASSAB PM 60 SuperClean
+      style: basic
+      url: http://www.assab-china.com/media/PM_60.pdf
+
+    - name: VANADIS 4 EXTRA SuperClean
+      style: basic
+      url: http://www.assab.com/media/ASSAB-Vanadis4ExtraSuperClean_C.pdf
+
+    - name: Vanadis 8 SuperClean
+      style: basic
+      url: http://www.assab-china.com/media/ASSAB_Vanadis%208%20SuperClean_SC.pdf
+
+    - name: Vanadis 10 SuperClean
+      style: basic
+      url: http://www.assab-china.com/media/Vanadis_10_SuperClean-C.pdf
+
 - section: assab
   categories:
   - category: 购物
