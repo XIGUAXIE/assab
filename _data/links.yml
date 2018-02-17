@@ -521,37 +521,73 @@
   - category: 本地资料下载
     links:
     - name: DF-3
-      style: red
+      style: basic
       url: http://www.assab.com/media/ASSAB%20DF-3_C_2017.pdf
 
     - name: XW-5
-      style: red
+      style: basic
       url: http://www.assab.com/media/ASSAB%20XW-5_C_2017.pdf
 
     - name: XW-10
-      style: red
+      style: basic
       url: http://www.assab.com/media/ASSAB%20XW-10_C_2017.pdf
 
     - name: XW-42
-      style: red
+      style: basic
       url: http://www.assab.com/media/ASSAB%20XW-42_C_2017.pdf
 
     - name: CALMAX
-      style: red
+      style: basic
       url: http://www.assab.com/media/CALMAX_C_2017.pdf
 
     - name: ASSAB 88
-      style: red
+      style: basic
       url: http://www.assab.com/media/ASSAB%2088_C_2017.pdf
 
     - name: ASSAB 618 HH
-      style: red
+      style: basic
       url: http://assab-china.com/media/618_HH.pdf
 
     - name: NIMAX
-      style: red
+      style: basic
       url: http://assab-china.com/media/NIMAX.pdf
 
     - name: UNIMAX
-      style: red
+      style: basic
       url: http://assab-china.com/media/UNIMAX.pdf
+
+    - name: FORMVAR
+      style: basic
+      url: http://www.assab-china.com/media/Assab-Formvar-C.pdf
+      
+    - name: QRO 90 SUPREME
+      style: basic
+      url: http://www.assab-china.com/media/QRO_90_SUPREME.pdf
+
+    - name: DIEVAR
+      style: basic
+      url: http://www.assab-china.com/media/DIEVAR.pdf
+
+    - name: ROYALLOY
+      style: basic
+      url: http://www.assab-china.com/media/ROYALLOY.pdf
+
+    - name: POLMAX
+      style: basic
+      url: http://www.assab-china.com/media/POLMAX.pdf
+
+    - name: STAVAX ESR
+      style: basic
+      url: http://www.assab-china.com/media/STAVAX_ESR.pdf
+
+    - name: CORRAX
+      style: basic
+      url: http://www.assab-china.com/media/CORRAX.pdf
+
+    - name: ASSAB 718HH
+      style: basic
+      url: http://www.assab-china.com/media/718_HH.pdf
+
+    - name: 表面处理
+      style: basic
+      url: http://www.assab-china.com/media/ABP_20140923_SC.pdf
