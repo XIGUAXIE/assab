@@ -368,171 +368,131 @@
 
 - section: assab
   categories:
-  - category: 购物
+  - category: 农林牧渔
     links:
-    - name: 京东
+    - name: 中华人民共和国农业部
       style: basic
-      url: http://www.jd.com/
+      url: http://www.moa.gov.cn/
 
-    - name: 天猫
+    - name: 中国农业网
       style: red
-      url: http://www.tmall.com/
+      url: http://www.zgny.com.cn/
 
-    - name: 淘宝
+    - name: 中国养殖网
       style: orange
-      url: http://www.taobao.com/
+      url: http://www.chinabreed.com/
 
-    - name: 亚马逊
-      icon: amazon yellow
+    - name: 新农网
+      style: green
+      url: http://www.xinnong.com/
+
+    - name: 金农网
       style: basic
-      url: http://www.amazon.cn/
+      url: http://www.jinnong.cn/
 
-    - name: Apple
+    - name: 农博网
       style: basic
-      icon: apple grey
-      url: https://www.apple.com/
+      url: http://www.aweb.com.cn/
 
-    - name: 一号店
+    - name: 猪e网
       style: basic
-      url: http://www.yhd.com/
+      url: http://www.zhue.com.cn/
 
-    - name: 当当
+    - name: 中国农业新闻网
       style: basic
-      url: http://www.dangdang.com/
+      url: http://www.farmer.com.cn/
 
-    - name: 网易严选
+    - name: 中华人民共和国林业局
       style: basic
-      url: http://you.163.com/
+      url: http://www.forestry.gov.cn/
 
-    - name: 优衣库
+    - name: 中国化肥网
       style: basic
-      url: http://www.uniqlo.cn/
+      url: http://www.fert.cn/
 
-    - name: 无印良品
+    - name: 中国禽病网
       style: basic
-      url: http://www.muji.com.cn/
+      url: http://www.qinbing.cn/
 
-    - name: IKEA
-      style: basic
-      url: http://www.ikea.com/
-
-    - name: 造作
+    - name: 饲料行业信息网
       style: black
-      url: https://zaozuo.com/
+      url: http://www.feedtrade.com.cn/
 
-    - name: 锤子科技
+    - name: 一亩田农产品信息网
       style: basic
-      url: http://www.smartisan.com/
+      url: http://www.ymt360.com/
 
-    - name: 小米商城
+    - name: 诚信农商网
       style: basic
-      url: http://www.mi.com/index.html
+      url: http://www.xns315.com/
 
-  - category: 工具
+  - category: 冶金矿产
     links:
-    - name: '12306'
-      icon: train red
-      style: basic
-      url: http://www.12306.cn/
+    - name: '中国联合钢铁网'
+      style: red
+      url: http://www.custeel.com/
 
-    - name: 快递查询
-      icon: shipping olive
-      style: basic
-      url: http://www.kuaidi100.com/
-
-    - name: 大众点评
-      icon: food orange
-      style: basic
-      url: http://www.dianping.com/
-
-    - name: 网易邮箱
-      icon: mail red
-      style: basic
-      url: http://email.163.com/
-
-    - name: QQ邮箱
-      icon: qq black
-      style: basic
-      url: https://mail.qq.com/
-
-    - name: 新浪邮箱
-      style: basic
-      url: https://mail.sina.com.cn/
-
-    - name: Gmail
-      icon: google red
-      style: basic
-      url: http://mail.google.com/
-
-    - name: 谷歌翻译
-      icon: translate blue
-      style: basic
-      url: https://translate.google.com/
-
-    - name: 百度翻译
-      icon: paw blue
-      style: basic
-      url: http://fanyi.baidu.com/
-
-    - name: 维基百科
-      icon: wikipedia black
-      style: basic
-      url: https://www.wikipedia.org/
-
-    - name: TinEye
-      style: basic
-      url: https://www.tineye.com/
-
-  - category: 社交
-    links:
-    - name: 微博
-      icon: weibo red
-      style: basic
-      url: http://weibo.com/
-
-    - name: 微信网页版
-      icon: wechat green
-      style: basic
-      url: http://wx.qq.com/
-
-    - name: 百度贴吧
-      icon: paw blue
-      style: basic
-      url: http://tieba.baidu.com/
-
-    - name: 知乎
+    - name: 我的钢铁
       style: blue
-      url: http://www.zhihu.com/
+      url: http://www.mysteel.com/
 
-    - name: Quora
-      icon: quora red
+    - name: 全球金属网
       style: basic
-      url: http://www.quora.com/
+      url: http://www.ometal.com/
 
-    - name: Facebook
-      icon: facebook blue
+    - name: 中国黄金网
       style: basic
-      url: http://www.facebook.com/
+      url: http://www.gold.org.cn/
 
-    - name: Google+
-      icon: google plus red
+    - name: 中国有色网
       style: basic
-      url: https://plus.google.com/
+      url: http://www.cnmn.com.cn/
 
-    - name: Tumblr
-      icon: tumblr blue
+    - name: 中国铝业网
       style: basic
-      url: http://www.tumblr.com/
+      url: http://www.alu.cn/
 
-    - name: Instagram
-      icon: instagram pink
+  - category: 建筑建材
+    links:
+    - name: 中国建材在线
       style: basic
-      url: http://www.instagram.com/
+      url: http://www.jc.net.cn/
 
-    - name: GitHub
-      icon: github black
+    - name: 筑龙网
       style: basic
-      url: http://github.com/
+      url: http://www.zhulong.com/
+
+    - name: 中国建筑装饰
+      style: basic
+      url: http://www.ccd.com.cn/
+
+    - name: 天工网
+      style: blue
+      url: http://www.tgnet.cn/
+
+    - name: 土木在线
+      style: orange
+      url: http://www.co188.com/
+
+    - name: 建筑英才网
+      style: basic
+      url: http://www.buildhr.com/
+
+    - name: ABBS建筑论坛
+      style: basic
+      url: http://www.abbs.com.cn/
+
+    - name: 鲁文建筑服务
+      style: basic
+      url: http://www.luwenwang.com/
+
+    - name: 中国玻璃网
+      style: black
+      url: http://www.glass.com.cn/
+
+    - name: 中国土木科技网
+      style: basic
+      url: 中国土木科技网
 
   - category: 学习
     links:
