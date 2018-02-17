@@ -330,6 +330,42 @@
       style: basic
       url: http://www.assab-china.com/media/Vanadis_10_SuperClean-C.pdf
 
+    - name: Vancron 40 SuperClean
+      style: basic
+      url: http://www.assab.com/media/Vancron40SuperClean-C.pdf
+
+    - name: ELMAX SuperClean
+      style: basic
+      url: http://www.assab.com/media/ElmaxSuperClean_C.pdf
+
+    - name: 一胜百超纯净概念
+      style: basic
+      url: http://www.assab-china.com/media/ASSAB_SuperClean.pdf
+
+    - name: ASSAB 618T
+      style: basic
+      url: http://www.assab-china.com/media/618T.pdf
+
+    - name: MIRRAX 40
+      style: basic
+      url: http://www.assab-china.com/media/MIRRAX_40.pdf
+
+    - name: VIDAR 1 ESR
+      style: basic
+      url: http://www.assab-china.com/media/VIDAR_1_ESR.pdf
+
+    - name: 一胜百涂层技术
+      style: basic
+      url: http://www.assab-china.com/media/ASSAB%20Coating%20Technology_SC.pdf
+
+    - name: 一胜百亚太区
+      style: basic
+      url: http://www.assab-china.com/media/Regional_Brochure_SC.pdf
+
+    - name: 一胜百中国区
+      style: basic
+      url: http://www.assab.com/media/ASSAB%20China_SC.pdf
+
 - section: assab
   categories:
   - category: 购物
